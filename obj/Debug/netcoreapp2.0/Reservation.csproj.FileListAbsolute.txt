@@ -1,0 +1,11 @@
+E:\csharp\KevinStradtman\Reservation\bin\Debug\netcoreapp2.0\Reservation.deps.json
+E:\csharp\KevinStradtman\Reservation\bin\Debug\netcoreapp2.0\Reservation.runtimeconfig.json
+E:\csharp\KevinStradtman\Reservation\bin\Debug\netcoreapp2.0\Reservation.runtimeconfig.dev.json
+E:\csharp\KevinStradtman\Reservation\bin\Debug\netcoreapp2.0\Reservation.dll
+E:\csharp\KevinStradtman\Reservation\bin\Debug\netcoreapp2.0\Reservation.pdb
+E:\csharp\KevinStradtman\Reservation\obj\Debug\netcoreapp2.0\Reservation.csprojResolveAssemblyReference.cache
+E:\csharp\KevinStradtman\Reservation\obj\Debug\netcoreapp2.0\Reservation.csproj.CoreCompileInputs.cache
+E:\csharp\KevinStradtman\Reservation\obj\Debug\netcoreapp2.0\Reservation.AssemblyInfoInputs.cache
+E:\csharp\KevinStradtman\Reservation\obj\Debug\netcoreapp2.0\Reservation.AssemblyInfo.cs
+E:\csharp\KevinStradtman\Reservation\obj\Debug\netcoreapp2.0\Reservation.dll
+E:\csharp\KevinStradtman\Reservation\obj\Debug\netcoreapp2.0\Reservation.pdb
